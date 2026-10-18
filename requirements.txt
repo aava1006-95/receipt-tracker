@@ -1,0 +1,6 @@
+streamlit
+supabase
+python-dotenv
+Pillow
+pillow-heif
+pandas
